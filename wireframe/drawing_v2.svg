@@ -31,15 +31,15 @@
      inkscape:document-units="px"
      showgrid="false"
      showguides="false"
-     inkscape:zoom="0.30729167"
-     inkscape:cx="1007.1864"
-     inkscape:cy="494.64406"
-     inkscape:window-width="1680"
-     inkscape:window-height="987"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="1.2291667"
+     inkscape:cx="4547.7966"
+     inkscape:cy="355.52542"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g13452">
+     inkscape:current-layer="g22043">
     <inkscape:page
        x="0"
        y="0"
@@ -1324,7 +1324,8 @@
          y="491.1799"
          style="stroke-width:0.234496">Kamal</tspan></text>
     <g
-       id="g22055">
+       id="g22055"
+       style="display:inline">
       <rect
          style="fill:#0b5cd5;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.0417168"
          id="rect10731"
@@ -1414,18 +1415,18 @@
          d="m 3989.7262,267.94335 -184.7033,10e-6 c -14.4227,0 -26.0339,11.61113 -26.0339,26.03391 v 16.41082 c 0,14.42279 11.6112,26.03391 26.0339,26.03391 h 122.8728 c 14.4228,0 26.0339,-11.61112 26.0339,-26.03391 v -16.41082 c 0,-14.42278 50.2194,-26.03392 35.7966,-26.03392 z"
          sodipodi:nodetypes="sssssssss" />
     </g>
-    <rect
-       style="fill:#e77681;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.0448834"
-       id="rect13682"
-       width="304.27124"
-       height="72"
-       x="2781.2881"
-       y="184.45575"
-       inkscape:label="rect996"
-       ry="26.033907"
-       rx="26.033905" />
     <g
        id="g22043">
+      <rect
+         style="fill:#e77681;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.0448834"
+         id="rect13682"
+         width="304.27124"
+         height="72"
+         x="2781.2881"
+         y="184.45575"
+         inkscape:label="rect996"
+         ry="26.033907"
+         rx="26.033905" />
       <rect
          style="fill:#b92d3a;fill-opacity:0.5;fill-rule:evenodd;stroke-width:0.0390564"
          id="rect13684"
@@ -1448,7 +1449,7 @@
            y="227.44891">Logout</tspan></text>
     </g>
     <rect
-       style="display:inline;mix-blend-mode:overlay;fill:#a8cbfe;stroke-width:0.2842;filter:url(#filter1049)"
+       style="display:none;mix-blend-mode:overlay;fill:#a8cbfe;stroke-width:0.2842;filter:url(#filter1049)"
        id="rect10715"
        width="1366"
        height="768"
